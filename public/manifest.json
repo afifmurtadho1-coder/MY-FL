@@ -1,0 +1,10 @@
+{
+  "name": "MY FL",
+  "short_name": "MY FL",
+  "description": "Aplikasi pencatatan pengeluaran pribadi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary"
+}
